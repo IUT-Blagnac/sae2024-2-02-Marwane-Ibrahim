@@ -125,6 +125,8 @@ Par exemple pour votre algorithme java en simplicité, vous le déposerez avec l
 
 === Phase 2 : comparaison et évaluation des solutions
 
+link:rapport/Rapport_Phase2_SAE2.02_Marwane_Ibrahim.pdf[Lien vers le rapport de la phase 2]
+
 Dans cette deuxième phase, (avec séances encadrées et libres), vous devrez comparer des solutions entre elles, et les classer en justifiant vos analyses.
 
 WARNING: Cette deuxième phase est en binôme (de votre choix)
